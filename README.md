@@ -1,4 +1,4 @@
-# CongressionalAppChalenge
+# CongressionalAppChallenge
 
 Lingua is a live speech-to-text transcriber that automatically translates what a person is saying to another intended language and displays it as captions on the presenter's video feed. Works with Zoom, Microsoft Teams, and anything that utilizes your camera feed as it creates a virtual camera stream with the captions burned onto it.
 
